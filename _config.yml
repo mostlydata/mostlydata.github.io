@@ -19,7 +19,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
   flickr:
   github: barryclark/jekyll-now
   instagram:
