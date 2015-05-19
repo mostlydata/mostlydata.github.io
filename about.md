@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Asst. Prof. at University of Delhi
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in Data Science, and Use of the same in Economics
+Development Economics and Macroeconomics
+Monetary Economics and Financial Markets
+Works with R, Stata, Matlab.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[abhishek@south.du.ac.in](mailto:email@domain.com)
