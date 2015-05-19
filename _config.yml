@@ -9,7 +9,7 @@ name: Abhishek Kumar
 description: Asst. Prof. Aspiring Data Scientist 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.facebook.com/photo.php?fbid=658392254195036&set=a.147848041916129.21880.100000728020317&type=1&theater
+avatar: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1382891_658392254195036_173028447_n.jpg?oh=d90c1522dd4b5ad470f0e4b1baf5d104&oe=55FFA073&__gda__=1439276706_fbbaff87e08374b747c461cf5f613da2
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook: abhishekeconomics
   twitter: ideasmatters
   flickr:
-  github: barryclark/jekyll-now
+  github: mostlydata
   instagram:
   linkedin:
   pinterest:
