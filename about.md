@@ -9,7 +9,7 @@ Asst. Prof. at University of Delhi
 ### More Information
 
 Interested in Data Science and Use of the same in Economics.
-Works with R, Stata, Matlab.
+Works with R, Stata, Matlab, Python.
 
 ### Contact me
 
