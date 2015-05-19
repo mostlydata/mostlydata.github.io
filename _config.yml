@@ -18,9 +18,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:abhishek@south.du.ac.in
-  facebook:abhishekeconomics
-  twitter:ideasmatters
+  email: abhishek@south.du.ac.in
+  facebook: abhishekeconomics
+  twitter: ideasmatters
   flickr:
   github: barryclark/jekyll-now
   instagram:
